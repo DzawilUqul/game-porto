@@ -1,5 +1,5 @@
 ---
-title: 'Post 4'
+title: 'Internship at GAC Mech AI'
 author: Tristen Tomczak
 date: '09-09-2024'
 image:

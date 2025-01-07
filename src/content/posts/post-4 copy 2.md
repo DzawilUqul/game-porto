@@ -1,7 +1,7 @@
 ---
-title: 'Teaching Assistant BTNG 2023 - Game Division'
+title: 'Internship at Bengkel Koding'
 author: Dzawil Uqul
-date: '09-09-2023'
+date: '09-09-2024'
 image:
     url: '/blog-post.webp'
     alt: 'Post Thumbnail'

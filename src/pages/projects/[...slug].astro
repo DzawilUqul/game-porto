@@ -3,9 +3,15 @@ import { getCollection } from "astro:content";
 import MarkdownWorksLayout from "../../layouts/MarkdownWorksLayout.astro";
 
 export const prerender = true;
+
 export async function getStaticPaths() {
-    const projectEntries = await getCollection("projects");
-    return projectEntries.map((entry) => ({
+    // Fetch entries from both collections
+    const gameProjects = await getCollection("game-projects");
+    const aiProjects = await getCollection("ai-projects");
+
+    // Combine and map entries to paths
+    const allEntries = [...gameProjects, ...aiProjects];
+    return allEntries.map((entry) => ({
         params: { slug: entry.slug },
         props: { entry },
     }));
@@ -18,3 +24,4 @@ const { Content } = await entry.render();
 <MarkdownWorksLayout frontmatter={entry.data}>
     <Content />
 </MarkdownWorksLayout>
+

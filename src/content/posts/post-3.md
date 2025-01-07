@@ -1,6 +1,6 @@
 ---
-title: 'Post 3'
-author: Tristen Tomczak
+title: 'Teaching Assistant BTNG 2024 - Game Division'
+author: Dzawil Uqul
 date: '09-09-2024'
 image:
     url: '/blog-post.webp'

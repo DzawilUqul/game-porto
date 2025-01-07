@@ -1,22 +1,31 @@
 ---
-title: 'Post 1'
-author: Tristen Tomczak
-date: '09-09-2024'
+title: 'Student Exchange at Universitas Gadjah Mada (UGM)'
+author: Dzawil Uqul
+date: '30-07-2024'
 image:
-    url: '/blog-post.webp'
+    url: '/ugm2.webp'
     alt: 'Post Thumbnail'
 ---
 
-Aenean a ex et metus finibus malesuada commodo in magna. In ut libero urna. Aenean in quam in ipsum rutrum egestas. Donec semper dignissim ante. Sed efficitur mi et sapien ultrices malesuada. Aliquam fermentum aliquam ante, eu semper mi vestibulum quis. Sed et purus metus. Pellentesque vestibulum commodo euismod. Duis a mauris accumsan lorem laoreet tempor. Mauris accumsan varius metus, in rutrum magna accumsan eget. Pellentesque at leo at sem tempor hendrerit non sit amet ante. Cras commodo augue sed magna rutrum rutrum.
-
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/image-1.webp" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/ugm2.webp" alt="First Image" />
 </div>
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
+As part of the Student Mobility program, I had the privilege of joining Universitas Gadjah Mada (UGM), one of Indonesia's most prestigious universities. During my exchange, I immersed myself in a multidisciplinary learning environment and worked on impactful projects that honed my technical skills and addressed real-world challenges.
 
-<div class="center">
-  <img class="pro-img" width="500px" height="281" src="/image-2.webp" alt="Second Image" />
+## Projects Completed:
+- ### Elderly Fall Detection System
+Developed a system using computer vision and machine learning to detect and alert caregivers of potential falls among the elderly, contributing to better healthcare monitoring.
+
+- ### Drug E-Commerce Store
+Designed and implemented a web-based platform for pharmaceutical product purchases, ensuring user-friendly navigation, secure transactions, and reliable order management.
+
+- ### Cloud-Based Web Music Platform
+Created a music streaming application hosted on the cloud, enabling users to upload, share, and play music seamlessly. Integrated backend and frontend features for an engaging user experience.
+
+<div class="grid_columns">
+  <img class="img_gallery" width="500px" height="281" src="/ugm1.webp" alt="Second Image" />
+  <img class="img_gallery" width="500px" height="281" src="/ugm3.webp" alt="Second Image" />
 </div>
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
+This exchange program was a transformative experience that allowed me to expand my knowledge, collaborate with talented peers, and apply my skills to meaningful projects.
